@@ -1,0 +1,4 @@
+INTRO TO OFFENSIVE SEC:
+def: understand hacker tactics + enhance system defences
+dirb (tool) - uses brute force approach by taking list of potential page names and testing if they exist (hidden URLs) on the website
+usage: in terminal, type "dirb <website link>"
